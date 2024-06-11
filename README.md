@@ -1,6 +1,5 @@
 # Helldivers 2 Teammate and Guild Finder
 
-## One-Sentence Description
 A web application to help Helldivers 2 players find teammates and guilds.
 
 ## Installation Instructions
