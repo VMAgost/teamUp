@@ -4,9 +4,9 @@ A web application to help Helldivers 2 players find teammates and guilds.
 
 ## Installation Instructions
 1. **Clone the Repository:**
-   ```bash
-   git clone git@github.com:Szollobalint/TeamUp-public.git
-   
+```bash
+git clone git@github.com:Szollobalint/TeamUp-public.git
+```   
 Backend Setup:
 
 Ensure you have Java and Maven installed.
