@@ -7,7 +7,7 @@ A web application to help Helldivers 2 players find teammates and guilds.
 ```bash
 git clone git@github.com:VMAgost/teamUp.git
 ```   
-Backend Setup:
+2 **Backend Setup:**
 
 Ensure you have Java and Maven installed.
 
@@ -23,7 +23,7 @@ Run the Spring Boot application:
 mvn spring-boot:run
 ```
 
-Frontend Setup:
+3. **Frontend Setup:**
 
 Ensure you have Node.js and npm installed.
 Navigate to the frontend directory:
@@ -39,7 +39,7 @@ Start the React application:
 ```bash
 npm run dev
 ```
-Access the Application:
+4. **Access the Application:**
 
 Open your web browser and go to http://localhost:8080.
 
@@ -70,7 +70,6 @@ Frontend:
 JavaScript,
 React,
 npm
-
 
 
 Contact Information
