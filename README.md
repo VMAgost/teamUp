@@ -7,7 +7,7 @@ A web application to help Helldivers 2 players find teammates and guilds.
 ```bash
 git clone git@github.com:VMAgost/teamUp.git
 ```   
-2 **Backend Setup:**
+2. **Backend Setup:**
 
 Ensure you have Java and Maven installed.
 
